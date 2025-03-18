@@ -1,0 +1,52 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216381259873@s.whatsapp.net',
+    fromMe: false,
+    id: 'BD1A2DC28D0673E7EA322151931BE690',
+    participant: undefined
+  },
+  messageTimestamp: 1742339952,
+  pushName: '🌄',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si no te responden no pasa nada gracias',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si no te responden no pasa nada gracias',
+  from: '5216381259873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216381259873@s.whatsapp.net',
+    fromMe: false,
+    id: '96D5DEA910755A4BAA307822EF1699A9',
+    participant: undefined
+  },
+  messageTimestamp: 1742339960,
+  pushName: '🌄',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ya casi me boy',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ya casi me boy',
+  from: '5216381259873'
+}
